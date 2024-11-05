@@ -65,7 +65,7 @@ If you need help with the app's features or commands, you can access the help se
 
 ## Authors
 
-Your Name - [jisan66](https://www.github.com/jisan66)
+[Zesan Saha](https://www.github.com/jisan66)
 
 
 ## Version History
