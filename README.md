@@ -26,6 +26,7 @@ Before installing Weather Watch, ensure you have the following prerequisites:
 **1. Clone the repository:**
 
 git clone https://github.com/jisan66/weather_watch.git
+
 cd weather_watch
 
 **2. Install the dependencies:**
@@ -44,9 +45,11 @@ flutter run
 The app will launch on your device or emulator, and you can start using it!
 
 ## Screenshots
-Home Screen showing current weather conditions.
+<img src="https://github.com/user-attachments/assets/f9d8d545-9a5b-4466-88a6-ff8850fe2317" alt="1" width="200"/>                <img src="https://github.com/user-attachments/assets/e700ae65-b512-4da2-853a-6438c29674e6" alt="2" width="200"/>                 <img src="https://github.com/user-attachments/assets/e564e651-60cc-4a61-89c7-e3f32e408ff2" alt="3" width="200"/>                 <img src="https://github.com/user-attachments/assets/794da257-d810-4f1c-b07e-a78c12c2484d" alt="4" width="200"/> 
 
-Detailed view of weather information.
+
+<img src="https://github.com/user-attachments/assets/043066e8-beef-4015-9f7e-f6efe8b05b68" alt="5" width="200"/>                <img src="https://github.com/user-attachments/assets/1a856c24-7e66-4348-8bdd-9cdc323c7fb2" alt="6" width="200"/>                 <img src="https://github.com/user-attachments/assets/f9f9cdde-a2aa-4251-9994-b9ffccab4f56" alt="7" width="200"/>                 <img src="https://github.com/user-attachments/assets/91e122e3-2ec3-4d69-9819-5e37be5022fb" alt="8" width="200"/> 
+
 
 ## APK Download
 You can download the APK for Weather Watch from the following link: [Download APK](https://drive.google.com/file/d/1-Vt7Ancs60-KgDoYwo5ePYxdD3yOJo0f/view?usp=sharing)
@@ -67,7 +70,7 @@ Your Name - [jisan66](https://www.github.com/jisan66)
 
 ## Version History
 
-0.1
+1.0
 Initial release of Weather Watch.
 
 ## License
